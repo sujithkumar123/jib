@@ -74,12 +74,8 @@ limitations under the License.
         <version>2.3.0</version>
         <configuration>
           <to>
-            <image>gcr.io/myproject/analytical-rain-278218/helloworld</image>
-		  <auth>
-      <username>sujith.chidrawar@gmail.com</username>
-	<password>d24cc5ed1a34c5a3cdc8a32c16385bc54af98a3a</password>		  
-      
-    </auth>
+            <image>helloworld</image>
+		  
           </to>
         </configuration>
       </plugin>
