@@ -74,7 +74,7 @@ limitations under the License.
         <version>2.3.0</version>
         <configuration>
           <to>
-            <image>gcr.io/PROJECT_ID/helloworld</image>
+            <image>gcr.io/analytical-rain-278218/helloworld</image>
           </to>
         </configuration>
       </plugin>
