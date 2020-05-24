@@ -75,13 +75,10 @@ limitations under the License.
         <configuration>
           <to>
             <image>helloworld</image>
-	     <servers>
-            <server>
-        <id>registry.hub.docker.com</id>
-        <username><sujith123></username>
-        <password><devops123></password>
-    </server>
-</servers>
+	     <auth>
+      <username>sujith123</username>
+      <password>devops123</password>
+    </auth>
 		  
           </to>
         </configuration>
