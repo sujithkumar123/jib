@@ -74,7 +74,7 @@ limitations under the License.
         <version>2.3.0</version>
         <configuration>
           <to>
-            <image>gcr.io/analytical-rain-278218/helloworld</image>
+            <image>gcr.io/java-278401/helloworld</image>
 	     <auth>
       <username>clientmail</username>
       <password>clientid</password>
