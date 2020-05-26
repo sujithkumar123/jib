@@ -75,7 +75,7 @@ limitations under the License.
     <url>https://repo.maven.apache.org/maven2/</url> 
   </pluginRepository> 
 </pluginRepositories>
-	  <plugin>
+	  </plugin>
       <plugin>
         <groupId>com.google.cloud.tools</groupId>
         <artifactId>jib-maven-plugin</artifactId>
