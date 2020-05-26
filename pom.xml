@@ -74,7 +74,7 @@ limitations under the License.
         <version>2.3.0</version>
         <configuration>
           <to>
-            <image>helloworld</image>
+            <image>gcr.io/helloworld/analytical-rain-278218/helloworld</image>
 	     <auth>
       <username>sujith123</username>
       <password>devops123</password>
